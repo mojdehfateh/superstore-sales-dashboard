@@ -23,3 +23,14 @@ Filtering the dashboard to the Central region shows the problem clearly: Furnitu
 Discounting doesn't explain the gap (Furniture's average discount, 17%, is close to Office Supplies' 16%). This points to a structural issue — likely higher product or shipping costs — rather than pricing promotions.
 
 ![Dashboard Filtered to Central](dashboard-filtered-central.png)
+
+## Tools & Process
+
+- **Power BI** — data modeling, DAX measures, interactive dashboard
+- **Excel** — independent cross-verification of totals (Power Query, pivot tables)
+- **Data cleaning** — identified and removed 1 duplicate row, verified date logic, checked for spelling inconsistencies across all columns (full dataset profiled, not just a preview)
+- **Data source:** [Sample Superstore dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) (Kaggle)
+
+## Skills Demonstrated
+
+Power BI · Excel · Data Visualization · Data Cleaning · DAX · Business Analysis
